@@ -1,3 +1,5 @@
+# Adding a comment to test a second pull request
+
 terraform {
   required_providers {
     aws = {
